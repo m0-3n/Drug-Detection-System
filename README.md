@@ -1,2 +1,2 @@
-# Drug-Detection-System
+# Drug Detection System
 *Dont do drugs kids*
